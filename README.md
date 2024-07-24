@@ -21,8 +21,7 @@ Sakanat API serves as the backend service for the Sakanat platform, a centralize
 - **Manage Favorites**: Users can save and manage their favorite listings.
 
 #### Communication
-- **In-app Messaging**: Communicate directly with property owners.
-- **WhatsApp Integration**: Additional communication via WhatsApp (as mentioned in the thesis).
+- **WhatsApp Integration**:  communication via WhatsApp with owners.
 
 #### Tenants and Contracts Management
 - **Tenant Management**: Manage tenant information and details.
