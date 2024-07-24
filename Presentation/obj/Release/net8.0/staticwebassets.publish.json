@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "UNIPAi+qtFAY3e2utSsMEihPitwSxSVIl94vQzw8J28=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "D:\\OneDrive\\GraduationProject\\GP_LastVersion\\Back-End\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
